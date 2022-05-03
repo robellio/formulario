@@ -1,6 +1,6 @@
 <h1>formulario</h1>
 
-<img src="./formulario/login-gif.gif" alt="Readme" />
+<img src="formulario/login-gif.gif" alt="Readme" />
 
 <p align="center">
     <a href="#sobre">Sobre</a>
