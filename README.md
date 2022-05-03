@@ -1,16 +1,17 @@
 <h1>formulario</h1>
 
->status: developing
+<img src="./formulario/login-gif.gif" alt="Readme" />
 
 <p align="center">
-    <a href="#sobre"></a>
-    <a href="#autor"></a>
+    <a href="#sobre">Sobre</a>
+    <a href="#autor">Autor</a>
+    <a href="#tecnologias">Tecnologias</a>
 </p>
 
 #Sobre 
-<p>Formulário simples de login</p>
+<p>O Objetivo deste projeto é mostrar de forma simples um formulário de login.</p>
 
-###Tecnologias
+#Tecnologias
 -[Html]
 -[Css]
 
